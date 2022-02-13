@@ -1,6 +1,3 @@
-👋 Hi, I’m professional Web Developer
-
-FrontEnd: HTML5/CSS3/SASS, responsive, Bootstrap 2,3,4,5+, Semantic Layout, JavaScript/Jquery, ES6, ts, VueJs, React.
-CMS: Wordpress
-
+Web Developer
+HTML5/CSS3/SASS, BEM methodology, Responsive layout, Semantic Layout, Bootstrap, JavaScript, Jquery, ES6+, TS, Vue, React.
 Graphic programs: Adobe Photoshop, Adobe Illustrator, Figma
